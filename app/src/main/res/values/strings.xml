@@ -1,0 +1,46 @@
+<resources>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_sales_order_main">ScrollingActivity</string>
+    <string name="app_name">Gaijin Company</string>
+    <string name="login">login</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="view_staff">View Staff</string>
+    <string name="update_staff">Update Staff</string>
+    <string name="delete_staff">Delete Staff</string>
+    <string name="staff_details"> Staff Details </string>
+    <string name="contacts">Mobile No.</string>
+    <string name="pay">Basic Pay</string>
+    <!-- Add New Package -->
+    <string name="select_item_hint">You can manually include items to be packed from the sales order by enabling the above option</string>
+
+    <!-- Add New Shipment -->
+    <string name="shipment_package">Start Typing to select package</string>
+
+
+    <string-array name="staff_dpt">
+        <item>Human Resources Staff</item>
+        <item>Delivery Staff</item>
+        <item>Clerk</item>
+        <item> Stock Management Staff</item>
+    </string-array>
+
+    <string name="submit_but">Submit</string>
+    <string name="clear_but">Clear</string>
+    <string name="update_but">Update</string>
+    <string name="update_staff_details"> Update Staff Details </string>
+
+    <!--    HardCode for View and Delete-->
+    <string name="view_name">Khoo Lay Ken</string>
+    <string name="view_department">Stock Manager</string>
+    <string name="view_pay">RM 10,000</string>
+</resources>
